@@ -1,0 +1,10 @@
+@font-face {
+    font-family: righregular;
+    src: url(/components/fonts/Righteous-Regular.ttf);
+}
+
+@font-face {
+    font-family: notoSa;
+    src: url(/components/fonts/NotoSansChakma-Regular.ttf);
+    
+}
